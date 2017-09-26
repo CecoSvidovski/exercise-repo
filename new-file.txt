@@ -1,2 +1,3 @@
 Content...
 Edited with GitBash!
+Making a conflict with GitBash!
