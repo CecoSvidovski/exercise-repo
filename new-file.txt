@@ -1,3 +1,6 @@
 Content...
 Edited with GitBash!
 Making a conflict with GitBash!!
+Edited with TortoiseGit!
+Edited with GitBash!
+Fix conflicts with GitBash!
